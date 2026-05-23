@@ -7,7 +7,7 @@ fun CSS-library that I have been enjoying learning as it is super helpful.
 Just a heads up, the "Sign Up" buttons do not do anything. They are there just for the looks.
 
 ## Link
-https://hagnap.github.io/landing-page/
+https://jakehaggard26.github.io/landing-page/
 
 ## Tech Stack
 HTML
